@@ -6,6 +6,9 @@ Trabalho final de programação estruturada.
 > Os códigos foram desenvolvidos utilizando a *arduino* *IDE* e a linguagem C/C++.
 
 **Universidade do Estado do Rio Grande do Norte - UERN**
+
 **Faculdade de Ciências Exatas e Naturais - FANAT**
+
 **Departamento de Informática - DI**
+
 **Curso Bacharelado em Ciência da Computação**
